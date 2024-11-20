@@ -1,0 +1,16 @@
+<div class="_rtfEditor_14phw_1">
+   <p style="margin-left: 0px">Siri/Pallavi : Bangalore </p>
+   <p style="margin-left: 0px">assignments_bangalore@excelr.com  </p>
+   <p style="margin-left: 0px">Ph No: 8050296818/9686937071</p>
+   <p style="margin-left: 0px"> </p>
+   <p style="margin-left: 0px">Kishore/Hareesh: Pune</p>
+   <p style="margin-left: 0px">assignments_pune@excelr.com  </p>
+   <p style="margin-left: 0px">Ph No:+91 9148198159/ 6364927471</p>
+   <p style="margin-left: 0px"> </p>
+   <p style="margin-left: 0px">Mounika/ Anavadhya : Hyderabad , Overseas and Rest of India</p>
+   <p style="margin-left: 0px">assignments@excelr.com</p>
+   <p style="margin-left: 0px">Ph No: 9281096183 /6366380614</p>
+   <p style="margin-left: 0px">Rohit : Mumbai</p>
+   <p style="margin-left: 0px">assignments_mumbai@excelr.com  </p>
+   <p style="margin-left: 0px">Ph No:  9606015157</p>
+</div>
